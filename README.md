@@ -1,3 +1,8 @@
+# Alunos
+
+- Brendon Augusto de Souza Nogueira;
+- Eduardo Faria Caetano Silva.
+
 # ActiveMQ
 
 O ActiveMQ é um Message Broker multiprotocolo baseado em Java. Com ele podemos integrar aplicações usando o protocolo AMQP (Advanced Message Queuing Protocol) de enfileiramento de mensagens na camada de aplicação.

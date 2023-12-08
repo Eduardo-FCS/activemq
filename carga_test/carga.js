@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const apiUrl = 'http://localhost:8080/api/producer/send';
-const numberOfRequests = 1000;
+const numberOfRequests = 50;
 const postData = {
     message: 'Hello, API!',
     content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
